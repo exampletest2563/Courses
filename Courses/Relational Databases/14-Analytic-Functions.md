@@ -1,0 +1,1 @@
+# 📉 Analytic (Window) Functions
