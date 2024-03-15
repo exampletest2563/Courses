@@ -1,27 +1,20 @@
 # Print Array Elements
 
 ## Problem Description
-
-Write a program that prints the elements of a non-empty array separated by a comma.
+You are given an array of integers. Write a program to print all the elements of the array.
 
 ## Input
-
-The input consists of `N` + 1 values. `N` represents the elements count.
+The input will contain a single line consisting of space-separated integers representing the elements of the array.
 
 ## Output
-
-The output consists of a single line - all elements, separated by a comma.
+Print all the elements of the array on a single line, separated by spaces.
 
 ## Constraints
-
-Your solution must comply with the following constraints:
-
-- `N` > 0.
+- The length of the array will be between 1 and 1000.
+- Each element of the array will be an integer between -10^9 and 10^9.
 
 ## Examples
-
 |Input|Output|
 |-|-|
-|1<br />1|1|
-|3<br />1<br />2<br />3|1, 2, 3|
-|5<br />54<br />-34<br />2<br />32<br />12|54, -34, 2, 32, 12|
+|1 2 3 4 5|1 2 3 4 5|
+|10 20 30 40 50|10 20 30 40 50|
