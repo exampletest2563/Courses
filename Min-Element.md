@@ -1,0 +1,21 @@
+# Min Element
+
+## Problem Description
+
+Write a program that finds the minimum element in a non-empty array.
+
+## Input
+
+The input consists of an array of numbers.
+
+## Output
+
+The output consists of a single value - the minimum element.
+
+## Examples
+
+|Input|Output|
+|-|-|
+|1|1|
+|1 2 3|1|
+|54 -34 2 32 12|-34|
