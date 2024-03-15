@@ -1,3 +1,0 @@
-# 🙌 Course Introduction
-
-## 📝 Course Outline
